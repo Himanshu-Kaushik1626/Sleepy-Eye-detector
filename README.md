@@ -7,8 +7,11 @@ A real-time **driver drowsiness detection application** built using Python, Open
 ## 🎥 Demo
 
 <!-- Add your demo GIF or video here -->
+<img width="1920" height="1080" alt="Screenshot 2026-03-31 113912" src="https://github.com/user-attachments/assets/4b5d81f4-d296-4b25-8aa9-444a28da940c" />
+<img width="1920" height="1080" alt="Screenshot 2026-03-31 113828" src="https://github.com/user-attachments/assets/114501cf-1107-46b7-8f1d-da8042a5441c" />
+<img width="1920" height="1080" alt="Screenshot 2026-03-31 113847" src="https://github.com/user-attachments/assets/45154bc7-8480-4c94-9735-1f6e9b63e716" />
 
-![Demo](demo.gif)
+
 
 ---
 
